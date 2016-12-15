@@ -7,9 +7,9 @@ Exposition:
 
 Opening cutscene depicts the player driving down a steep road in a pickup truck, suddenly, the a bright streak of green lights up
 the sky, and an earthquake occurs, causing the road to form a land slide, rolling the player's truck and partially burying it. 
-When the player assumes control, they are prompted to loot any tools or resources, which includes a key, they can from the 
-overturned truck. The player is then prompted to walk to the mining facility further in the valley, which was the player's original
-destination. When the player arrives, they unlock the door with the key from the truck. Inside, there is a non-functioning ham 
+When the player assumes control, they are prompted to loot any tools or resources, which includes a key, from the overturned truck.
+The player is then prompted to walk to the mining facility further in the valley, which was the player's original destination. 
+When the player arrives, they unlock the door with the key from the truck. Inside, there is a non-functioning ham 
 radio, aswell as basic amenities, a stock of survival rations, and mining gear.
 
 Goal:
@@ -19,7 +19,8 @@ the valley's surface.
 
 Features:
 
-A large variety of mining gear, including an old compressed air drill and air compressor, an airated dust mask,  
+A large variety of mining gear, including an old compressed air drill and air compressor, an airated dust mask, a plethora of 
+explosives, a sledgehammer, and a prybar, among others. 
 Ore is collected and refined in a smeltery, used to upgrade or create gear via machining and blacksmithing.
 URE4 or Voxel based, fully destructable subterranean environment, mining in any direction , though player cannot leave the valley.
 Log book that updates with new discoveries, such as determining an ore's color when it is in vein form by noticing what refined
@@ -27,6 +28,8 @@ metal is collected out of the smeltery.
 While mining, old shafts and tunnels can be found, occasionally containing the skeletons of dead miners, with journals, tools and 
 crafting schematics spread around. Schematics pertaining to weaponry are rare, excluding the occasional explosive schematic, 
 but become more common as you near the depths. 
-Journals progressively clue in to the evil which lurks far below the surface, which is hinted at during the entirety of the game.
+Journals progressively clue in to the evil which lurks far below the surface, which is hinted at during the entirety of the game, to
+be revealed at the end.
+Two or more endings, primarily being insanity or victory.
 
   
